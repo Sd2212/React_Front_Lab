@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "payeeName": "Rahul",
+      "price": 1000,
+      "product": "Rent",
+      "setDate": "2022-07-01",
+      "id": 1
+    },
+    {
+      "payeeName": "Ramesh",
+      "price": 500,
+      "product": "Food",
+      "setDate": "2022-07-10",
+      "id": 2
+    },
+    {
+      "payeeName": "Rahul",
+      "price": 500,
+      "product": "Petrol",
+      "setDate": "2022-07-10",
+      "id": 3
+    },
+    {
+      "payeeName": "Ramesh",
+      "price": 5000,
+      "product": "Rent",
+      "setDate": "2022-07-31",
+      "id": 4
+    }
+  ]
+}
